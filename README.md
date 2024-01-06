@@ -40,12 +40,4 @@ I'm **George Sun**, a student who is into computer vision and multi-modal learni
 <div align="center">
   <img src="https://img.shields.io/badge/Vim-000000?style=for-the-badge&logo=vim&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tmux-000000?style=for-the-badge&logo=tmux&logoColor=white" />
 </div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=Iterm2&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-</div>
-
