@@ -1,12 +1,11 @@
 ## Welcome! Here is George's Kindom 🌠
 
-I'm **George Sun**, a student who is into computer vision and multi-modal learning.
+I'm **Guangyan Sun**, a senoir undergrad at Sun Yat-sen University.
 
-- 👋 You can call me **George** or **Georgie**.
-- 🌏 Mainly use **English**🇬🇧 and **Chinese**🇨🇳. Knows a little bit **Japanese**. Planning to learn some **Spanish**🇪🇸.
-- 🏖️ Senior Undergraduate.
+- 👋 You can call me **Guangyan** or **George** or **Georgie**.
+- 🌏 Mainly use **English**🇬🇧 and **Chinese**🇨🇳. Knows a little bit **Japanese**. Planning to learn **Spanish**🇪🇸.
 - ✨ Interseted in 🏃，🏊，🎾.
-- 💬 Feel free to ask me about anyting.
+- 💬 Feel free to ask or chat me about anyting.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kingeorge&count_private=true&show_icons=true&theme=dark" />
