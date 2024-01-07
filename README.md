@@ -26,6 +26,7 @@ I'm **Guangyan Sun**, a senoir undergrad at Sun Yat-sen University.
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/Julia-000000?style=for-the-badge&logo=Julia&logoColor=white" />
 </div>
 
