@@ -1,4 +1,4 @@
-## Welcome! Here is George's Kindom 🌠
+## Welcome! Here is George's Kingdom 🌠
 
 I'm **Guangyan Sun**, an incoming PhD student at [Rochester Institute of Technology](https://www.rit.edu/engineering).
 
