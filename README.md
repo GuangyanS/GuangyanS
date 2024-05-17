@@ -1,11 +1,11 @@
 ## Welcome! Here is George's Kindom 🌠
 
-I'm **Guangyan Sun**, a senoir undergrad at Sun Yat-sen University.
+I'm **Guangyan Sun**, an incoming PhD student at [Rochester Institute of Technology](https://www.rit.edu/engineering).
 
 - 👋 You can call me **Guangyan** or **George** or **Georgie**.
-- 🌏 Mainly use **English**🇬🇧 and **Chinese**🇨🇳. Knows a little bit **Japanese**. Planning to learn **Spanish**🇪🇸.
-- ✨ Interseted in 🏃，🏊，🎾.
-- 💬 Feel free to ask or chat me about anyting.
+- 🌏 Mainly use **English**🇬🇧 and **Chinese**🇨🇳. Knows a little bit **Japanese**.
+- ✨ Interseted in 🎾, 🏃，🏊.
+- 💬 Feel free to ask or chat with me about anything.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guangyans&count_private=true&show_icons=true&theme=dark" />
