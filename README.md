@@ -1,6 +1,6 @@
 ## Welcome! Here is George's Kingdom 🌠
 
-I'm **Guangyan Sun**, an incoming PhD student at [University of Rochester](https://www.hajim.rochester.edu/ece/index.html).
+I'm **Guangyan Sun**, a PhD student at [University of Rochester](https://www.hajim.rochester.edu/ece/index.html).
 
 - 👋 You can call me **Guangyan** or **George** or **Georgie**.
 - 🌏 Mainly use **English**🇬🇧 and **Chinese**🇨🇳. Knows a little bit **Japanese**.
