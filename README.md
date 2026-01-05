@@ -4,7 +4,7 @@ I'm **Guangyan Sun**, a PhD student at [University of Minnesota](https://cse.umn
 
 - 👋 You can call me **Guangyan** or **George** or **Georgie**.
 - 🌏 Mainly use **English**🇬🇧 and **Chinese**🇨🇳. Knows a little bit **Japanese**.
-- ✨ Interseted in 🎾, 🏃，🏊.
+- ✨ Interseted in 🎾.
 - 💬 Feel free to ask or chat with me about anything.
 
 ### Technology Stack
