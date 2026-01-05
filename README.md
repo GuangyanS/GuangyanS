@@ -7,13 +7,6 @@ I'm **Guangyan Sun**, a PhD student at [University of Minnesota](https://cse.umn
 - ✨ Interseted in 🎾, 🏃，🏊.
 - 💬 Feel free to ask or chat with me about anything.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guangyans&count_private=true&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guangyans&langs_count=8&theme=dark&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=300" />
-</a>
-
 ### Technology Stack
 
 <div align="center">
